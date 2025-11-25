@@ -1,0 +1,5 @@
+{
+  "name": "NovelCraft AI",
+  "description": "类似 TRAE 的小说家 IDE。以“细纲 -> 正文 -> 下一章细纲”为核心工作流，提供专业 AI 智能体辅助和文件管理。",
+  "requestFramePermissions": []
+}
